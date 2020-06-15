@@ -1,3 +1,2 @@
 theme: minima
-baseurl: /blog
-url: "https://fuzzysound.github.io/test-blog/blog/"
+baseurl: /test-blog
